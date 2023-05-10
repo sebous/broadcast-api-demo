@@ -1,7 +1,7 @@
 import { Route } from "wouter";
 import "./index.css";
 import { AuthProvider } from "./AuthContext";
-import { Nav } from "./compoennts/Nav";
+import { Nav } from "./components/Nav";
 import { Basic } from "./routes/basic";
 
 function App() {
